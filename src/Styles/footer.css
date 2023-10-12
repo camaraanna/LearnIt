@@ -1,0 +1,7 @@
+.footer {
+  display: flex;
+  height: 65vh;
+  background-color: #eaeeff;
+  position: relative;
+  margin: none;
+}

@@ -1,0 +1,8 @@
+.recommendation {
+  display: flex;
+  height: 75vh;
+  background-color: #eaeeff;
+  position: relative;
+  border-radius: 20px;
+  margin: 10px;
+}
